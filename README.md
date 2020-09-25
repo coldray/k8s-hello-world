@@ -19,6 +19,6 @@ kubectl create service loadbalancer golang-hello --tcp=8500:8500
 minikube service golang --url
 ```
 
-### Common Issues
+### Common issues
 
 [I am getting errimagepull error](https://stackoverflow.com/questions/40600419/why-am-i-getting-an-errimagepull-error-in-this-kubernetes-deployment)
